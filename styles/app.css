@@ -359,7 +359,7 @@ svg {
     .c-nav__item path:last-child {
       opacity: 0.2; }
   .c-nav__item a:hover, .c-nav__item a:focus {
-    color: #00bc9b; }
+    color: #00afbc; }
   .c-nav__item a:hover + svg,
   .c-nav__item a:focus + svg {
     opacity: 1; }
